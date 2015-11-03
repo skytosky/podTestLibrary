@@ -1,0 +1,2 @@
+# podTestLibrary
+lib static
